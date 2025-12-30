@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Hyunseok Lee
+# I'm Hyunseok Lee
 
 ### 🧑‍💻 About Me
 - 🎓 Undergraduate at **Sejong University** (Data Science & Economics)
